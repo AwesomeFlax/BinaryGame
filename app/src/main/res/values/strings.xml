@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Binary Game</string>
+
+    <string name="score">Счет:</string>
+    <string name="action_settings">Настройки</string>
+    <string name="part1">Вы набрали</string>
+    <string name="part2">очков</string>
+    <string name="programName">qwerty</string>
+    <string name="lost_game">Похоже, вы проиграли</string>
+    <string name="score_lost">Ваш счет: </string>
+    <string name="restart">[ Заново ]</string>
+    <string name="back_in_menu">[ В меню ]</string>
+    <string name="classic_mode">[ Классика ]</string>
+    <string name="extended">[ Расширенная ]</string>
+
+</resources>
